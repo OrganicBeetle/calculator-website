@@ -10,6 +10,9 @@ A simple yet powerful calculator built with JavaScript. This project demonstrate
 ## Screenshots
 ![Calculator Screenshot](https://github.com/OrganicBeetle/calculator-website/blob/main/Preview.png)
 
+## Preview:
+[Calculator Website Preview](https://organicbeetle-calculator.netlify.app/)
+
 ## Installation
 
 1. **Clone the repository**
