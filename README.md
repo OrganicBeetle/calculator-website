@@ -8,7 +8,7 @@ A simple yet powerful calculator built with JavaScript. This project demonstrate
 - Responsive design
 
 ## Screenshots
-![Calculator Screenshot]()
+![Calculator Screenshot](https://github.com/OrganicBeetle/calculator-website/blob/main/Preview.png)
 
 ## Installation
 
