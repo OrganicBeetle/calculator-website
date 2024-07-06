@@ -5,6 +5,7 @@
     overflow: hidden;
 }
 button{
+    outline : none;
     border: none;
     border-radius: 40px;
     width: 80px;
